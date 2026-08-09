@@ -21,6 +21,18 @@ The finished workbook is available at:
 
 `outputs/risk-insight-dashboard/CAT_Risk_Insight_Dashboard.xlsx`
 
+## Dashboard preview
+
+![CAT Risk Insight Dashboard preview](assets/dashboard-preview.png)
+
+### Pivot analysis
+
+![Formula-driven CAT rollups](assets/pivot-analysis-preview.png)
+
+### Inputs and model guide
+
+![CAT model assumptions and guide](assets/inputs-guide-preview.png)
+
 ## Data source
 
 The project uses a stratified sample from Kaggle's **Forecasting Disaster Management in 2024** dataset as an external catastrophe-hazard proxy:
