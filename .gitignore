@@ -1,0 +1,10 @@
+# Build and source-working files
+work/
+
+# Generated inspection and preview files (the final .xlsx is retained)
+outputs/**/*.inspect.ndjson
+outputs/**/*.png
+
+# Operating-system files
+Thumbs.db
+.DS_Store
